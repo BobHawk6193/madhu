@@ -1,0 +1,10 @@
+Hello 
+git basic practice
+git commands 
+
+Git init
+git add
+git commit -m "Commit message"
+git status
+git log
+
